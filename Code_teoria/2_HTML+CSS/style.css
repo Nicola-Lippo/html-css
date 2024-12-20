@@ -1,0 +1,30 @@
+#uno {
+    color: red;
+}
+
+.prima {
+    color: blue;
+}
+
+/*figlio di*/
+.seconda p {
+    color: green;
+}
+
+/*tag e tag*/
+#due,
+#tre {
+    color: blueviolet;
+}
+
+/*ereditarietà*/
+.terza {
+    color: yellow;
+}
+
+/*Width e Height*/
+.quadrato {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+}
